@@ -1,1 +1,1 @@
-FROM aliyun.com/repository/cn-shanghai/jeevan812/blog/ghost:20200916
+FROM aregistry-internal.cn-shanghai.aliyuncs.com/jeevan812/blog/ghost:20200916
